@@ -17,7 +17,8 @@ Ce projet fait partie du parcours Data Scientist proposé par OpenClassrooms.
 
 ## Source des données
 Les données utilisées pour ce projet proviennent du **Building Energy Benchmarking** de Seattle.
-[données de Seattle](https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy)
+[ données de Seattle](https://github.com/ABOUD43/OC-Projet3-Prediction-energetique/tree/main/Data)
+[Source](https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy)
 
 ## Notebook Google Colab
 
