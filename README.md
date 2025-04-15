@@ -1,6 +1,9 @@
 # OC-Projet3-Prediction-energetique
 
+![Logo](https://github.com/ABOUD43/OC-Projet3-Prediction-energetique/blob/main/image/logo.PNG)
+
 ## Contexte du projet 
+
 Ce projet vise à anticiper la consommation d'énergie et les émissions de CO2 des bâtiments non résidentiels de Seattle en 2016. L'objectif est de prédire ces valeurs pour des bâtiments où les données sont manquantes, en utilisant les informations des bâtiments existants.
 
 ## Objectifs clés du projet :
